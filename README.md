@@ -1,19 +1,18 @@
 # 👋 Hi, I’m Henning
-I work as a Software Engineer at hmmh multimediahaus AG.
-![- 👀 I’m interested in ...]
+I work as a Software Engineer at [hmmh AG](https://github.com/hmmh).
+<!-- ![- 👀 I’m interested in ...]
 ![- 🌱 I’m currently learning ...]
-![- 💞️ I’m looking to collaborate on ...]
+![- 💞️ I’m looking to collaborate on ...] -->
 
 ### 📫 How to reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henning-steinberg) 
-[![XING](https://img.shields.io/badge/XING-green?logo=Xing&logoColor=white)](https://www.xing.com/profile/CHenning_Steinberg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henning-steinberg) 
+[![XING](https://img.shields.io/badge/XING-green?style=for-the-badge&logo=Xing&logoColor=white)](https://www.xing.com/profile/CHenning_Steinberg)
 
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br/>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<br/>
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <br/>
