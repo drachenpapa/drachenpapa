@@ -1,10 +1,7 @@
 # 👋 Hi, I’m Henning
-I work as a Software Engineer at [hmmh AG](https://github.com/hmmh).
-<!-- ![- 👀 I’m interested in ...]
-![- 🌱 I’m currently learning ...]
-![- 💞️ I’m looking to collaborate on ...] -->
+***Father of one, author of many***
 
-### 📫 How to reach me 
+### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henning-steinberg) 
 [![XING](https://img.shields.io/badge/XING-green?style=for-the-badge&logo=Xing&logoColor=white)](https://www.xing.com/profile/CHenning_Steinberg)
 
@@ -19,6 +16,11 @@ I work as a Software Engineer at [hmmh AG](https://github.com/hmmh).
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%230A0FFF.svg?style=for-the-badge&logo=Confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+<details>
+  <summary>About my work</summary>
+  <p>I work as a Software Engineer at <a href="https://github.com/hmmh">hmmh AG</a> in their INDI unit. There we build individual (hence the name) e-commerce solutions. In our agile teams I take the mantle of a Java developer while also fulfilling the role of an security ambassador.</p>
+</details>
 
 ### Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
