@@ -18,7 +18,7 @@ I work as a Software Engineer at <a href="https://github.com/hmmh">@hmmh AG</a> 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&style=flat-square&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=flat-square&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=flat-square&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=flat-square&logoColor=black)
 <br/>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&style=flat-square&logoColor=white)
