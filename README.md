@@ -8,7 +8,9 @@
 <h1>👋 Hi, I’m Henning</h1>
 <h4><i>(soon to be) Father of two, author of many</i></h4>
 
-I work as a Software Engineer at <a href="https://github.com/hmmh">@hmmh AG</a> in their INDI unit. My unit is a very technical driven team with an agile mindset and passion for individual software, where I take the mantle of a Java developer while also fulfilling the role of an security ambassador.  If you're interested in our work, feel free to [drop by](https://karriere.hmmh.de/en/).
+I work as a Software Engineer at <a href="https://github.com/hmmh">@hmmh AG</a> in their INDI unit. My unit is a very technical driven team with an agile mindset and passion for individual software, where I take the mantle of a Java developer while also fulfilling the role of an security ambassador.
+
+If you're interested in our work, feel free to [drop by](https://karriere.hmmh.de/en/).
 
 ---
 
