@@ -1,11 +1,12 @@
-![Profile page banner](.\images\banner.png)
+![Profile page banner](images/banner.png)
 # 👋 Hi, I’m Henning
-***(soon to be) Father of two, author of many***
 <span style="float:right;">
     <a href="https://github.com/drachenpapa"><img alt="Henning's GitHub" src="https://img.shields.io/badge/-white?style=social&logo=GitHub"></a>&nbsp;
     <a href="https://linkedin.com/in/henning-steinberg"><img alt="Henning's LinkedIn" src="https://img.shields.io/badge/-white?style=social&logo=linkedin"></a>&nbsp;
     <a href="https://www.xing.com/profile/CHenning_Steinberg"><img alt="Henning's Xing" src="https://img.shields.io/badge/-green?style=social&logo=Xing"></a>&nbsp;
 </span>
+
+***(soon to be) Father of two, author of many***
 
 I work as a Software Engineer at <a href="https://github.com/hmmh">@hmmh AG</a> in their INDI unit. My unit is a very technical driven team with an agile mindset and passion for individual software, where I take the mantle of a Java developer while also fulfilling the role of an security ambassador.  If you're interested in our work, feel free to [drop by](https://karriere.hmmh.de/en/).
 
