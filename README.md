@@ -1,6 +1,6 @@
 ![Profile page banner](images/banner.png)
 # 👋 Hi, I’m Henning
-<p style="text-align: left">
+<p style="text-align:left;">
     <b><i>(soon to be) Father of two, author of many</i></b>
     <span style="float:right;">
         <a href="https://github.com/drachenpapa"><img alt="Henning's GitHub" src="https://img.shields.io/badge/-white?style=social&logo=GitHub"></a>&nbsp;
