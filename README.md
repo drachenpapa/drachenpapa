@@ -17,9 +17,11 @@ If you're interested in our work, feel free to [drop by](https://karriere.hmmh.d
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/JAVA-yellow?logo=java&style=flat-square&logoColor=white)
 <br/>
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&style=flat-square&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=flat-square&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&style=flat-square&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&style=flat-square&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&style=flat-square&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=flat-square&logoColor=black)
 <br/>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&logoColor=white)
