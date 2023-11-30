@@ -18,16 +18,14 @@ If you're interested in our work, feel free to [drop by](https://karriere.hmmh.d
 ![Java](https://img.shields.io/badge/JAVA-yellow?logo=java&style=flat-square&logoColor=white)
 <br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=flat-square&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&style=flat-square&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&style=flat-square&logoColor=white)
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&style=flat-square&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&style=flat-square&logoColor=white)
 ![Apache JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&style=flat-square&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&style=flat-square&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&style=flat-square&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=flat-square&logoColor=black)
-<br/>
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&style=flat-square&logoColor=white)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&style=flat-square&logoColor=white)
-<br/>
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&style=flat-square&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&style=flat-square&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&style=flat-square&logoColor=white)
