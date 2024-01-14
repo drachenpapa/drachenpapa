@@ -6,7 +6,7 @@
     <a href="https://www.xing.com/profile/CHenning_Steinberg"><img height="25" alt="Henning's Xing" src="https://img.shields.io/badge/-green?style=social&logo=Xing"></a>&nbsp;
 </p>
 <h1>👋 Hi, I’m Henning</h1>
-<h4><i>(soon to be) Father of two, author of many</i></h4>
+<h4><i>Father of two, author of many</i></h4>
 
 I work as a Software Engineer at <a href="https://github.com/hmmh">@hmmh AG</a> in their INDI unit. My unit is a very technical driven team with an agile mindset and passion for individual software, where I take the mantle of a Java developer while also fulfilling the role of an security ambassador.
 
