@@ -1,11 +1,5 @@
 ![Profile page banner](images/banner.png)
 
-<p align="center">
-    <a href="https://github.com/drachenpapa"><img height="25" alt="Henning's GitHub" src="https://img.shields.io/badge/-white?style=social&logo=GitHub"></a>&nbsp;
-    <a href="https://linkedin.com/in/henning-steinberg"><img height="25" alt="Henning's LinkedIn" src="https://img.shields.io/badge/-white?style=social&logo=linkedin"></a>&nbsp;
-    <a href="https://www.xing.com/profile/CHenning_Steinberg"><img height="25" alt="Henning's Xing" src="https://img.shields.io/badge/-green?style=social&logo=Xing"></a>&nbsp;
-</p>
-
 ## 👋 Hi, I’m Henning
 #### <i>Father of two, author of many</i>
 
@@ -14,7 +8,7 @@ My team at INDI is driven by a shared passion for agile development and creating
 I thrive on tackling complex development challenges, with a particular focus on building scalable, high-performance systems and ensuring robust security measures through rigorous testing practices.
 I'm also a certified ISTQB Foundation Level Tester with the Agile Tester Extension, committed to delivering secure and high-quality code, especially in agile environments.
 
-In my spare time, I love spending time with my family, staying active through jogging and exploring new areas in Pokémon Go.
+In my spare time, I love spending time with my family, staying active through jogging and exploring new areas in Pokémon Go<sup>[?](## "Friend Code: 5204 2596 1853")</sup>.
 
 
 ### 🚀 Projects
@@ -30,7 +24,7 @@ I'm always looking to expand my skillset. Right now, I'm diving into:
 - **Software Test Management** – Currently advancing my ISTQB certifications with a focus on managing and optimizing test processes to ensure maximum software quality.
 
 
-### 💻 Tech Stack
+<!--### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/JAVA-yellow?logo=java&style=flat-square&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=flat-square&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white)
