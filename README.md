@@ -13,8 +13,8 @@ In my spare time, I love spending time with my family, staying active through jo
 
 ### 🚀 Projects
 Here are some of the projects I'm working on at the moment:
-- [Finance Tool](https://github.com/drachenpapa/finance-tool) – A Java-based application for managing personal finances, featuring account tracking, custom categories, and transaction history.
 - [Genderify](https://github.com/drachenpapa/genderify) – An Office Add-In for suggesting gender-neutral alternatives in German text. Users can also easily apply customizable gender markers (e.g., *, :).
+- [PEXI](https://github.com/drachenpapa/pexi) – A Java-based application for managing personal finances, featuring account tracking, custom categories, and transaction history.
 - [Zatacka](https://github.com/drachenpapa/zatacka) – A remake of the classic multiplayer game Zatacka, built in Java Swing. Players control growing lines, aiming to outlast opponents without crashing.
 
 
