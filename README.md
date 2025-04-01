@@ -15,23 +15,12 @@ In my spare time, I love spending time with my family, staying active through jo
 Here are some of the projects I'm working on at the moment:
 - [Genderify](https://github.com/drachenpapa/genderify) – An Office Add-In for suggesting gender-neutral alternatives in German text. Users can also easily apply customizable gender markers (e.g., *, :).
 - [PEXI](https://github.com/drachenpapa/pexi) – A Java-based application for managing personal finances, featuring account tracking, custom categories, and transaction history.
-- [Zatacka](https://github.com/drachenpapa/zatacka) – A remake of the classic multiplayer game Zatacka, built in Java Swing. Players control growing lines, aiming to outlast opponents without crashing.
 
+### ⏸️ On Hold
+These projects are currently on hold, but I plan to revisit them in the future:
+- [Zatacka](https://github.com/drachenpapa/zatacka) – A remake of the classic multiplayer game Zatacka, built in Java Swing. Players control growing lines, aiming to outlast opponents without crashing.
 
 ### 📚 Currently Learning
 I'm always looking to expand my skillset. Right now, I'm diving into:
-- **Ruby / JRuby / Ruby on Rails** – Exploring the Ruby ecosystem to broaden my knowledge of web development frameworks.
 - **Software Test Management** – Currently advancing my ISTQB certifications with a focus on managing and optimizing test processes to ensure maximum software quality.
-
-
-<!--### 💻 Tech Stack
-![Java](https://img.shields.io/badge/JAVA-yellow?logo=java&style=flat-square&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=flat-square&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&logoColor=white)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&style=flat-square&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&style=flat-square&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&style=flat-square&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&style=flat-square&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=flat-square&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&style=flat-square&logoColor=white)
+- **freeCodeCamp** – Testing out my web development skills with freeCodeCamp's interactive coding challenges, to see where I can improve.
