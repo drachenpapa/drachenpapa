@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Henning
 #### <i>Father of two, author of many</i>
 
-I'm a passionate Software Engineer working at <a href="https://github.com/hmmh">@hmmh AG</a>, where I specialize in Java development.
+I'm a passionate Software Engineer working at <a href="https://github.com/hmmhag">@hmmh AG</a>, where I specialize in Java development.
 My team at INDI is driven by a shared passion for agile development and creating custom software solutions tailored to our clients' needs.
 I thrive on tackling complex development challenges, with a particular focus on building scalable, high-performance systems and ensuring robust security measures through rigorous testing practices.
 I'm also a certified ISTQB Foundation Level Tester with the Agile Tester Extension, committed to delivering secure and high-quality code, especially in agile environments.
