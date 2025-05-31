@@ -15,10 +15,8 @@ In my spare time, I love spending time with my family, staying active through jo
 Here are some of the projects I'm working on at the moment:
 - [Genderify](https://github.com/drachenpapa/genderify) – An Office Add-In for suggesting gender-neutral alternatives in German text. Users can also easily apply customizable gender markers (e.g., *, :).
 - [PEXI](https://github.com/drachenpapa/pexi) – A Java-based application for managing personal finances, featuring account tracking, custom categories, and transaction history.
+- [Wyrmhort](https://github.com/drachenpapa/wyrmhort) - Wyrmhort is a personal hobby expense tracker designed to help me manage and monitor my spending across various hobbies.
 
-### ⏸️ On Hold
-These projects are currently on hold, but I plan to revisit them in the future:
-- [Zatacka](https://github.com/drachenpapa/zatacka) – A remake of the classic multiplayer game Zatacka, built in Java Swing. Players control growing lines, aiming to outlast opponents without crashing.
 
 ### 📚 Currently Learning
 I'm always looking to expand my skillset. Right now, I'm diving into:
